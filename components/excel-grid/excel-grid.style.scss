@@ -1,0 +1,21 @@
+.app {
+  &__container {
+      max-width: 1180px;
+      margin: 0 auto;
+  }
+
+  &__header {
+    font-size: 30px;
+    line-height: 35px;
+    margin: 30px 0;
+    display: flex;
+  }
+
+  &__title {
+    font-family: 'Open Sans Condensed';
+    font-weight: bolder;
+    line-height: 50px;
+    margin-right: 50px;
+    color: blue;
+  }
+}
