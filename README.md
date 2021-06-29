@@ -4,7 +4,7 @@
 
 - /api/add-sheet  (POST)
 
-  - sample payload
+  - sample request payload
   ```
   [
     {
@@ -22,6 +22,6 @@
   ]
   ```
   
- - /api/get-sheet  (GET)
+- /api/get-sheet  (GET)
  
   - returns the same response as above
